@@ -1,0 +1,11 @@
+.mvn/
+mvnw
+mvnw.cmd
+target/
+!**/src/main/**
+!**/src/test/**
+
+.idea
+*.iws
+*.iml
+*.ipr
